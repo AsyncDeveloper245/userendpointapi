@@ -1,1 +1,1 @@
-gunicorn userapi.wsgi
+web: gunicorn userapi.wsgi
